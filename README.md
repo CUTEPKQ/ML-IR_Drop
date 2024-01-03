@@ -27,4 +27,7 @@
 #### 模型预测
 ![image](https://github.com/CUTEPKQ/ML-IR_Drop/assets/126258180/8462bc70-5b9c-4a5d-8367-2f80c09e6fca)
 
+**说明**
+代码实现主要基于[circuitnet](https://github.com/circuitnet/CircuitNet/tree/icisc_2023)
+
 
