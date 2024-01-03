@@ -1,0 +1,12 @@
+{   "gpu": 0,
+    "save_path": "work_dir/sample/",
+    "ann_file": "../feature_extraction/test.csv",
+    "dataroot": "../feature_extraction",
+    "dataset_type": "TestDataset",
+    "model_type": "My",
+    "in_channels": 3,
+    "out_channels": 1,
+    "eval_metric": ["MAE", "corrcoef"],
+    "pretrained": "./work_dir/1128/train-20231227_103051/model_iters_10000.pth",
+    "final_test": false
+}
